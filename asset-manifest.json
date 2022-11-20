@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//github.com/yethuhlaing.github.io/github_repositories_generator/static/css/main.1e53b1ee.css",
+    "main.js": "//github.com/yethuhlaing.github.io/github_repositories_generator/static/js/main.19855577.js",
+    "static/js/787.00542509.chunk.js": "//github.com/yethuhlaing.github.io/github_repositories_generator/static/js/787.00542509.chunk.js",
+    "index.html": "//github.com/yethuhlaing.github.io/github_repositories_generator/index.html",
+    "main.1e53b1ee.css.map": "//github.com/yethuhlaing.github.io/github_repositories_generator/static/css/main.1e53b1ee.css.map",
+    "main.19855577.js.map": "//github.com/yethuhlaing.github.io/github_repositories_generator/static/js/main.19855577.js.map",
+    "787.00542509.chunk.js.map": "//github.com/yethuhlaing.github.io/github_repositories_generator/static/js/787.00542509.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e53b1ee.css",
+    "static/js/main.19855577.js"
+  ]
+}
